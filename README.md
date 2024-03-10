@@ -1,1 +1,3 @@
-# main_repository
+This is an android application on the water delivery . which comprises of the login , registeration , product chosing , viewing the specification and the ordering of the product . This application comprises of the database which use for the authorisation and authentication of the legitimate user . It has an payment gateway which has the database but not fully functional payment system . 
+Note :- this project also have some limitations such as location tracking as the system of the location is posessed by the google which will be implemented on any other time ...
+This is my first android application of the ecommerce with an attrative ui.
